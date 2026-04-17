@@ -1,6 +1,7 @@
 
 function toggleMode() {
-    const body = document.getElementById("body");
+    const body = document.getElementById("bodddy");
+    
     
     
     const randomColor1 = `hsl(${Math.floor(Math.random() * 360)}, 80%, 75%)`;
